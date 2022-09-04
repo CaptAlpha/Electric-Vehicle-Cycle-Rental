@@ -1,0 +1,19 @@
+{
+  "name": "electric-vehicle-cycle-rental",
+  "version": "1.0.0",
+  "description": "Internet and Web Programming: J-Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptAlpha/Electric-Vehicle-Cycle-Rental.git"
+  },
+  "author": "arhit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaptAlpha/Electric-Vehicle-Cycle-Rental/issues"
+  },
+  "homepage": "https://github.com/CaptAlpha/Electric-Vehicle-Cycle-Rental#readme"
+}
